@@ -1,0 +1,3 @@
+aiogram==3.21.0
+vk-api==11.10.0
+aiohttp==3.12.14
